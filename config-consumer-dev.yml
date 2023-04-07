@@ -1,0 +1,7 @@
+env:
+  dev
+
+student:
+  name: jack
+  age: 35
+  
