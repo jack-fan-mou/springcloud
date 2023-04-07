@@ -1,0 +1,6 @@
+env:
+  prod
+
+student:
+  name: Lucy
+  age: 18
